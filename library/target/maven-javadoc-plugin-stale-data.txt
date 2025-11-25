@@ -1,0 +1,47 @@
+@options
+@packages
+--class-path
+'C:/Users/Sebba/Documents/Inteliji/Maven/library/target/classes;C:/Users/Sebba/Documents/Inteliji/Maven/library/target/test-classes;C:/Users/Sebba/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.14.0/junit-jupiter-api-5.14.0.jar;C:/Users/Sebba/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar;C:/Users/Sebba/.m2/repository/org/junit/platform/junit-platform-commons/1.14.0/junit-platform-commons-1.14.0.jar;C:/Users/Sebba/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/Sebba/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.14.0/junit-jupiter-engine-5.14.0.jar;C:/Users/Sebba/.m2/repository/org/junit/platform/junit-platform-engine/1.14.0/junit-platform-engine-1.14.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/Sebba/Documents/Inteliji/Maven/library/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Sebba/Documents/Inteliji/Maven/library/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT Test API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT Test API'
+models
+C:\Users\Sebba\Documents\Inteliji\Maven\library\src\test\java = 1764107875371
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\allclasses-index.html = 1764111452065
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\allpackages-index.html = 1764111452078
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\copy.svg = 1764111452170
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\element-list = 1764111451869
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\help-doc.html = 1764111452157
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\index-all.html = 1764111452125
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\index.html = 1764111452137
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\link.svg = 1764111452181
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\member-search-index.js = 1764111452092
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\module-search-index.js = 1764111452081
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\overview-tree.html = 1764111452015
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\package-search-index.js = 1764111452086
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\script.js = 1764111452167
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\search-page.js = 1764111452222
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\search.html = 1764111452132
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\search.js = 1764111452212
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\stylesheet.css = 1764111452164
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\tag-search-index.js = 1764111452096
+C:\Users\Sebba\Documents\Inteliji\Maven\library\target\site\testapidocs\type-search-index.js = 1764111452090
